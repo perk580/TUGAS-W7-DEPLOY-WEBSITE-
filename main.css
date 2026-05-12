@@ -1,0 +1,26 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: Poppins, sans-serif; 
+    }
+    .hidden {
+     display: none; 
+     }
+    p {
+     font-size: 14px; 
+     }
+    #pageHome, #pageCart {
+     margin-bottom: 50px; 
+     }
+    .product-card {
+     width: 14rem; height: 32rem; 
+     }
+    .product-card img {
+     width: 224px;
+      height: 290px;
+      margin-left: -13px;
+      margin-top: -1px;
+      border-top-left-radius: 5px; 
+      border-top-right-radius: 5px; 
+     }
